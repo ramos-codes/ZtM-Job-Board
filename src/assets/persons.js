@@ -14633,6 +14633,22 @@ export const data = {
       state: "Lagos",
       country: "Nigeria",
     },
-  }
+  },
+    {
+    id: uuidv4(),
+    name: "Adrian Ramos",
+    img: "",
+    linkes: {
+      website: "https://adrianramos.dev/",
+      linkedin: "https://www.linkedin.com/in/ramos-codes/",
+      github: "https://github.com/ramos-codes",
+    },
+    jobTitle: "Front End Developer | UI Engineer",
+    location: {
+      city: "San Francisco",
+      state: "California",
+      country: "United States of America",
+    }
+    },
   ],
 }
